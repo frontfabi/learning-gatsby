@@ -12,10 +12,14 @@
     Basta criar um novo componente na pasta `pages`.
     O nome do componente deve ser acompanhado do sufixo `Page`.
     ```javascript
-    import React from 'react'
 
-    const HomePage = () => (
-      <h1>Title</h1>
+    import React from 'react';
+
+    const AboutPage = () => (
+      <h1>About Page</h1>
     )
+
+    export default AboutPage;
+
     ```
     
