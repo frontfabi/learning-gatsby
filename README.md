@@ -30,8 +30,6 @@ Importe a dependência `Link` do Gatsby e passe a rota na prop `to`
     )
 
     export default IndexPage
-
-
     ```
 
 ## Vantagens de utilizar `Link`
